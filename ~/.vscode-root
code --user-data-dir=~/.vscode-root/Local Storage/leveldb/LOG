@@ -1,0 +1,5 @@
+2021/01/04-23:49:53.932 9a8d Reusing MANIFEST /home/dias/projetos/ESTUDAPORRA/~/.vscode-root
+code --user-data-dir=~/.vscode-root/Local Storage/leveldb/MANIFEST-000001
+2021/01/04-23:49:53.933 9a8d Recovering log #3
+2021/01/04-23:49:53.933 9a8d Reusing old log /home/dias/projetos/ESTUDAPORRA/~/.vscode-root
+code --user-data-dir=~/.vscode-root/Local Storage/leveldb/000003.log 

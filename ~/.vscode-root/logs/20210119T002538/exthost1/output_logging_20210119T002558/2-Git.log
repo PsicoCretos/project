@@ -1,0 +1,49 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/dias/projetos/ESTUDAPORRA
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --local branch.master.github-pr-owner-number
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :.gitattributes
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/.gitattributes
+> git cat-file -s 967315dd3d16d50942fa7abd383dfb95ec685491
+> git show --textconv :.gitignore
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/.gitignore
+> git cat-file -s 1f054dcd5c0b906006b32af38a9fae0aa63ff173
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :~/.vscode-root/CachedExtensions/user
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/~/.vscode-root/CachedExtensions/user
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :~/.vscode-root/User/settings.json
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/~/.vscode-root/User/settings.json
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :database/factories/ProductFactory.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/factories/ProductFactory.php

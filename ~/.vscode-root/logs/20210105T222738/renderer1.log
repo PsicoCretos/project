@@ -1,0 +1,2 @@
+[2021-01-05 22:27:51.111] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/dias/projetos/ESTUDAPORRA/.vscode'
+[2021-01-12 13:41:38.937] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.git' took 60% of 2650.148ms, saved PROFILE here: '/tmp/exthost-d1b71a.cpuprofile' [{"id":"gc","total":7508,"percentage":0},{"id":"program","total":724528,"percentage":27},{"id":"self","total":334079,"percentage":13},{"id":"vscode.git","total":1582881,"percentage":60}]

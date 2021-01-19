@@ -1,0 +1,9 @@
+[2021-01-05 22:27:46.830] [sharedprocess] [info] main {"machineId":"9581efd0ec001bfb5626ba5482d62bb156fc32ba7211dd54b0d819e61fb75ee0","windowId":2}
+[2021-01-05 22:27:47.359] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/dias/projetos/ESTUDAPORRA/~/.vscode-root/User/snippets'
+[2021-01-05 22:28:22.493] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-containers
+[2021-01-05 22:28:24.003] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-containers undefined
+[2021-01-05 22:28:26.921] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-01-05 22:28:33.059] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ms-vscode-remote.remote-containers-0.154.2: ms-vscode-remote.remote-containers
+[2021-01-05 22:28:33.060] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-vscode-remote.remote-containers-0.154.2
+[2021-01-05 22:28:33.087] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-containers
+[2021-01-05 22:28:33.126] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-containers

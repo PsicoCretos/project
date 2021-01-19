@@ -1,0 +1,5 @@
+2021/01/04-23:49:35.872 999a Reusing MANIFEST /home/dias/projetos/ESTUDAPORRA/~/.vscode-root
+code --user-data-dir=~/.vscode-root/Session Storage/MANIFEST-000001
+2021/01/04-23:49:35.873 999a Recovering log #3
+2021/01/04-23:49:35.873 999a Reusing old log /home/dias/projetos/ESTUDAPORRA/~/.vscode-root
+code --user-data-dir=~/.vscode-root/Session Storage/000003.log 

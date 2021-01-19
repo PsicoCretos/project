@@ -1,0 +1,3 @@
+[2021-01-04 23:48:12.195] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/dias/projetos/ESTUDAPORRA/bootstrap/.vscode'
+[2021-01-04 23:48:47.689] [renderer1] [warning] UNRESPONSIVE extension host, 'donjayamanne.githistory' took 100% of 6248.075ms, saved PROFILE here: '/tmp/exthost-ae62fb.cpuprofile' [{"id":"donjayamanne.githistory","total":6239638,"percentage":100},{"id":"self","total":7295,"percentage":0}]
+[2021-01-04 23:49:11.943] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/dias/projetos/ESTUDAPORRA/.vscode'

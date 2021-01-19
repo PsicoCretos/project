@@ -1,0 +1,27 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/dias/projetos/ESTUDAPORRA
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :database/factories/ProductFactory.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/factories/ProductFactory.php
+> git check-ignore -v -z --stdin
+> git config --local branch.master.github-pr-owner-number
+> git check-ignore -v -z --stdin
+> git show --textconv :~/.vscode-root/CachedExtensions/user
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/~/.vscode-root/CachedExtensions/user
+> git show --textconv :database/factories/CategoryFactory.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/factories/CategoryFactory.php
+> git check-ignore -v -z --stdin
+> git show --textconv :app/Http/Controllers/Auth/ConfirmPasswordController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Auth/ConfirmPasswordController.php
+> git cat-file -s 138c1f08a2b2d32764fffe6ae261180dbcc5deec
+> git check-ignore -v -z --stdin

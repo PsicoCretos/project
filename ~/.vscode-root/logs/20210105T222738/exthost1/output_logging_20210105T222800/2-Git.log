@@ -1,0 +1,2415 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/dias/projetos/ESTUDAPORRA
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/migrations/2014_10_12_100000_create_password_resets_table.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/migrations/2014_10_12_100000_create_password_resets_table.php
+> git cat-file -s 0ee0a36a4f87c2f914288abfc133573d6a6324b7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :app/User.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/User.php
+> git cat-file -s e79dab7fea8f6601eaf07072ee6b12fbe20bdbe1
+> git show --textconv :app/Http/Controllers/Auth/ConfirmPasswordController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Auth/ConfirmPasswordController.php
+> git cat-file -s 138c1f08a2b2d32764fffe6ae261180dbcc5deec
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :resources/views/welcome.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/welcome.blade.php
+> git cat-file -s 7bc33725dc6c6a24d4e175f884965341c5c51da3
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git check-ignore -v -z --stdin
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/welcome.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/welcome.blade.php
+> git cat-file -s 7bc33725dc6c6a24d4e175f884965341c5c51da3
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git show --textconv :resources/views/welcome.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/welcome.blade.php
+> git cat-file -s 7bc33725dc6c6a24d4e175f884965341c5c51da3
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/welcome.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/welcome.blade.php
+> git cat-file -s 7bc33725dc6c6a24d4e175f884965341c5c51da3
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/welcome.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/welcome.blade.php
+> git cat-file -s 7bc33725dc6c6a24d4e175f884965341c5c51da3
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/welcome.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/welcome.blade.php
+> git cat-file -s 7bc33725dc6c6a24d4e175f884965341c5c51da3
+> git check-ignore -v -z --stdin
+> git show --textconv :config/database.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/config/database.php
+> git cat-file -s b42d9b30a5463e6f1c739724d5debdc487f94748
+> git check-ignore -v -z --stdin
+> git show --textconv :.env
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/.env
+> git show --textconv :resources/views/welcome.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/welcome.blade.php
+> git cat-file -s 7bc33725dc6c6a24d4e175f884965341c5c51da3
+> git show --textconv :config/database.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/config/database.php
+> git cat-file -s b42d9b30a5463e6f1c739724d5debdc487f94748
+> git show --textconv :.env
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/.env
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git show --textconv :config/database.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/config/database.php
+> git cat-file -s b42d9b30a5463e6f1c739724d5debdc487f94748
+> git show --textconv :resources/views/welcome.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/welcome.blade.php
+> git cat-file -s 7bc33725dc6c6a24d4e175f884965341c5c51da3
+> git show --textconv :config/database.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/config/database.php
+> git cat-file -s b42d9b30a5463e6f1c739724d5debdc487f94748
+> git show --textconv :.env
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/.env
+> git show --textconv :config/database.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/config/database.php
+> git cat-file -s b42d9b30a5463e6f1c739724d5debdc487f94748
+> git show --textconv :.env
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/.env
+> git show --textconv :.gitattributes
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/.gitattributes
+> git cat-file -s 967315dd3d16d50942fa7abd383dfb95ec685491
+> git show --textconv :.gitignore
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/.gitignore
+> git cat-file -s 1f054dcd5c0b906006b32af38a9fae0aa63ff173
+> git show --textconv :.gitattributes
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/.gitattributes
+> git cat-file -s 967315dd3d16d50942fa7abd383dfb95ec685491
+> git show --textconv :.gitignore
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/.gitignore
+> git cat-file -s 1f054dcd5c0b906006b32af38a9fae0aa63ff173
+> git show --textconv :.gitattributes
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/.gitattributes
+> git cat-file -s 967315dd3d16d50942fa7abd383dfb95ec685491
+> git show --textconv :.env
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/.env
+> git show --textconv :config/database.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/config/database.php
+> git cat-file -s b42d9b30a5463e6f1c739724d5debdc487f94748
+> git show --textconv :.env
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/.env
+> git show --textconv :config/database.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/config/database.php
+> git cat-file -s b42d9b30a5463e6f1c739724d5debdc487f94748
+> git show --textconv :.env
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/.env
+> git show --textconv :config/database.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/config/database.php
+> git cat-file -s b42d9b30a5463e6f1c739724d5debdc487f94748
+> git show --textconv :.env
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/.env
+> git show --textconv :config/database.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/config/database.php
+> git cat-file -s b42d9b30a5463e6f1c739724d5debdc487f94748
+> git show --textconv :.env
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/.env
+> git show --textconv :config/database.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/config/database.php
+> git cat-file -s b42d9b30a5463e6f1c739724d5debdc487f94748
+> git show --textconv :.env
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/.env
+> git show --textconv :config/database.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/config/database.php
+> git cat-file -s b42d9b30a5463e6f1c739724d5debdc487f94748
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.env
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/.env
+> git show --textconv :config/database.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/config/database.php
+> git cat-file -s b42d9b30a5463e6f1c739724d5debdc487f94748
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git show --textconv :.env
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/.env
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git show --textconv :database/migrations/2014_10_12_000000_create_users_table.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/migrations/2014_10_12_000000_create_users_table.php
+> git cat-file -s a91e1d3c4baed140741e1eb20305b2f13f6ee468
+> git show --textconv :database/migrations/2014_10_12_100000_create_password_resets_table.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/migrations/2014_10_12_100000_create_password_resets_table.php
+> git cat-file -s 0ee0a36a4f87c2f914288abfc133573d6a6324b7
+> git show --textconv :database/migrations/2019_08_19_000000_create_failed_jobs_table.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/migrations/2019_08_19_000000_create_failed_jobs_table.php
+> git cat-file -s 389bdf768a2e704b0bb0214e12581b88fe99a4f9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :database/migrations/2021_01_07_195313_create_table_store.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/migrations/2021_01_07_195313_create_table_store.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/migrations/2014_10_12_000000_create_users_table.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/migrations/2014_10_12_000000_create_users_table.php
+> git cat-file -s a91e1d3c4baed140741e1eb20305b2f13f6ee468
+> git show --textconv :database/migrations/2021_01_07_195313_create_table_store.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/migrations/2021_01_07_195313_create_table_store.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/migrations/2021_01_07_201721_create_products_table.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/migrations/2021_01_07_201721_create_products_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/migrations/2014_10_12_000000_create_users_table.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/migrations/2014_10_12_000000_create_users_table.php
+> git cat-file -s a91e1d3c4baed140741e1eb20305b2f13f6ee468
+> git check-ignore -v -z --stdin
+> git show --textconv :database/seeds/DatabaseSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/DatabaseSeeder.php
+> git cat-file -s 91cb6d1c2dede4151cd947c27d31f2faa7ab5a8b
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/seeds/UsersTableSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/UsersTableSeeder.php
+> git show --textconv :database/seeds/DatabaseSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/DatabaseSeeder.php
+> git cat-file -s 91cb6d1c2dede4151cd947c27d31f2faa7ab5a8b
+> git show --textconv :database/seeds/UsersTableSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/UsersTableSeeder.php
+> git show --textconv :database/seeds/DatabaseSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/DatabaseSeeder.php
+> git cat-file -s 91cb6d1c2dede4151cd947c27d31f2faa7ab5a8b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :database/factories/UserFactory.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/factories/UserFactory.php
+> git cat-file -s 741edead6192a670fb2b10e4fbf303ab2ab3be12
+> git show --textconv :database/seeds/DatabaseSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/DatabaseSeeder.php
+> git cat-file -s 91cb6d1c2dede4151cd947c27d31f2faa7ab5a8b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/seeds/UsersTableSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/UsersTableSeeder.php
+> git show --textconv :database/seeds/DatabaseSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/DatabaseSeeder.php
+> git cat-file -s 91cb6d1c2dede4151cd947c27d31f2faa7ab5a8b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/seeds/UsersTableSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/UsersTableSeeder.php
+> git show --textconv :database/seeds/DatabaseSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/DatabaseSeeder.php
+> git cat-file -s 91cb6d1c2dede4151cd947c27d31f2faa7ab5a8b
+> git show --textconv :database/seeds/UsersTableSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/UsersTableSeeder.php
+> git show --textconv :database/seeds/DatabaseSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/DatabaseSeeder.php
+> git cat-file -s 91cb6d1c2dede4151cd947c27d31f2faa7ab5a8b
+> git show --textconv :database/seeds/UsersTableSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/UsersTableSeeder.php
+> git show --textconv :database/seeds/DatabaseSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/DatabaseSeeder.php
+> git cat-file -s 91cb6d1c2dede4151cd947c27d31f2faa7ab5a8b
+> git show --textconv :database/seeds/UsersTableSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/UsersTableSeeder.php
+> git show --textconv :database/seeds/DatabaseSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/DatabaseSeeder.php
+> git cat-file -s 91cb6d1c2dede4151cd947c27d31f2faa7ab5a8b
+> git show --textconv :database/seeds/UsersTableSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/UsersTableSeeder.php
+> git show --textconv :database/seeds/DatabaseSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/DatabaseSeeder.php
+> git cat-file -s 91cb6d1c2dede4151cd947c27d31f2faa7ab5a8b
+> git show --textconv :database/seeds/UsersTableSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/UsersTableSeeder.php
+> git show --textconv :database/seeds/DatabaseSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/DatabaseSeeder.php
+> git cat-file -s 91cb6d1c2dede4151cd947c27d31f2faa7ab5a8b
+> git show --textconv :database/seeds/UsersTableSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/UsersTableSeeder.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/seeds/DatabaseSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/DatabaseSeeder.php
+> git status -z -u
+> git cat-file -s 91cb6d1c2dede4151cd947c27d31f2faa7ab5a8b
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/seeds/UsersTableSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/UsersTableSeeder.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/factories/UserFactory.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/factories/UserFactory.php
+> git cat-file -s 741edead6192a670fb2b10e4fbf303ab2ab3be12
+> git show --textconv :database/seeds/UsersTableSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/UsersTableSeeder.php
+> git show --textconv :database/factories/UserFactory.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/factories/UserFactory.php
+> git cat-file -s 741edead6192a670fb2b10e4fbf303ab2ab3be12
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/seeds/UsersTableSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/UsersTableSeeder.php
+> git show --textconv :database/factories/UserFactory.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/factories/UserFactory.php
+> git cat-file -s 741edead6192a670fb2b10e4fbf303ab2ab3be12
+> git show --textconv :database/seeds/UsersTableSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/UsersTableSeeder.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/factories/UserFactory.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/factories/UserFactory.php
+> git cat-file -s 741edead6192a670fb2b10e4fbf303ab2ab3be12
+> git show --textconv :app/User.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/User.php
+> git cat-file -s e79dab7fea8f6601eaf07072ee6b12fbe20bdbe1
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Store.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Store.php
+> git show --textconv :app/User.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/User.php
+> git cat-file -s e79dab7fea8f6601eaf07072ee6b12fbe20bdbe1
+> git show --textconv :app/Product.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Product.php
+> git show --textconv :app/Store.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Store.php
+> git show --textconv :app/Product.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Product.php
+> git show --textconv :app/User.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/User.php
+> git cat-file -s e79dab7fea8f6601eaf07072ee6b12fbe20bdbe1
+> git show --textconv :app/Product.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Product.php
+> git show --textconv :app/Store.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Store.php
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Store.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Store.php
+> git show --textconv :app/Product.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Product.php
+> git show --textconv :app/User.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/User.php
+> git cat-file -s e79dab7fea8f6601eaf07072ee6b12fbe20bdbe1
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/User.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/User.php
+> git cat-file -s e79dab7fea8f6601eaf07072ee6b12fbe20bdbe1
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git show --textconv :app/User.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/User.php
+> git cat-file -s e79dab7fea8f6601eaf07072ee6b12fbe20bdbe1
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Store.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Store.php
+> git show --textconv :app/Product.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Product.php
+> git show --textconv :app/Store.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Store.php
+> git show --textconv :app/Product.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Product.php
+> git show --textconv :app/User.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/User.php
+> git cat-file -s e79dab7fea8f6601eaf07072ee6b12fbe20bdbe1
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/User.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/User.php
+> git cat-file -s e79dab7fea8f6601eaf07072ee6b12fbe20bdbe1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Product.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Product.php
+> git show --textconv :app/User.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/User.php
+> git cat-file -s e79dab7fea8f6601eaf07072ee6b12fbe20bdbe1
+> git show --textconv :app/Store.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Store.php
+> git show --textconv :app/User.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/User.php
+> git cat-file -s e79dab7fea8f6601eaf07072ee6b12fbe20bdbe1
+> git show --textconv :app/Store.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Store.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/User.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/User.php
+> git cat-file -s e79dab7fea8f6601eaf07072ee6b12fbe20bdbe1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Store.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Store.php
+> git show --textconv :app/Product.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Product.php
+> git show --textconv :app/User.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/User.php
+> git cat-file -s e79dab7fea8f6601eaf07072ee6b12fbe20bdbe1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Store.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Store.php
+> git show --textconv :app/Product.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Product.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Store.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Store.php
+> git show --textconv :app/Product.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Product.php
+> git show --textconv :app/Store.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Store.php
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Category.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Category.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :database/migrations/2021_01_09_000803_create_categories_table.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/migrations/2021_01_09_000803_create_categories_table.php
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/migrations/2021_01_09_001148_create_category_product_table.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/migrations/2021_01_09_001148_create_category_product_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/migrations/2021_01_09_000803_create_categories_table.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/migrations/2021_01_09_000803_create_categories_table.php
+> git show --textconv :database/migrations/2021_01_09_001148_create_category_product_table.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/migrations/2021_01_09_001148_create_category_product_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Category.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Category.php
+> git show --textconv :app/Product.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Product.php
+> git show --textconv :app/Category.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Category.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Product.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Product.php
+> git show --textconv :app/Category.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Category.php
+> git show --textconv :app/Product.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Product.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/factories/StoreFactory.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/factories/StoreFactory.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/factories/ProductFactory.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/factories/ProductFactory.php
+> git show --textconv :database/factories/CategoryFactory.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/factories/CategoryFactory.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/factories/ProductFactory.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/factories/ProductFactory.php
+> git show --textconv :database/factories/CategoryFactory.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/factories/CategoryFactory.php
+> git show --textconv :app/Category.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Category.php
+> git show --textconv :database/factories/CategoryFactory.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/factories/CategoryFactory.php
+> git show --textconv :database/factories/ProductFactory.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/factories/ProductFactory.php
+> git show --textconv :app/Product.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Product.php
+> git show --textconv :database/factories/StoreFactory.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/factories/StoreFactory.php
+> git show --textconv :app/Category.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Category.php
+> git show --textconv :database/factories/CategoryFactory.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/factories/CategoryFactory.php
+> git show --textconv :app/Category.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Category.php
+> git show --textconv :app/Product.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Product.php
+> git show --textconv :app/Category.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Category.php
+> git show --textconv :app/Product.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Product.php
+> git show --textconv :app/Store.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Store.php
+> git show --textconv :app/Product.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Product.php
+> git show --textconv :app/Store.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Store.php
+> git show --textconv :database/factories/StoreFactory.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/factories/StoreFactory.php
+> git show --textconv :app/Category.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Category.php
+> git show --textconv :app/Store.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Store.php
+> git show --textconv :app/Product.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Product.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Category.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Category.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/seeds/StoreTableSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/StoreTableSeeder.php
+> git show --textconv :database/seeds/UsersTableSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/UsersTableSeeder.php
+> git show --textconv :database/seeds/StoreTableSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/StoreTableSeeder.php
+> git show --textconv :database/seeds/UsersTableSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/UsersTableSeeder.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/seeds/StoreTableSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/StoreTableSeeder.php
+> git show --textconv :database/factories/ProductFactory.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/factories/ProductFactory.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/seeds/StoreTableSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/StoreTableSeeder.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/factories/ProductFactory.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/factories/ProductFactory.php
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/factories/UserFactory.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/factories/UserFactory.php
+> git cat-file -s 741edead6192a670fb2b10e4fbf303ab2ab3be12
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git show --textconv :app/Store.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Store.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/factories/ProductFactory.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/factories/ProductFactory.php
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/factories/ProductFactory.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/factories/ProductFactory.php
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/factories/ProductFactory.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/factories/ProductFactory.php
+> git show --textconv :database/migrations/2014_10_12_000000_create_users_table.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/migrations/2014_10_12_000000_create_users_table.php
+> git cat-file -s a91e1d3c4baed140741e1eb20305b2f13f6ee468
+> git show --textconv :database/factories/ProductFactory.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/factories/ProductFactory.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git show --textconv :app/Category.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Category.php
+> git show --textconv :app/Product.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Product.php
+> git show --textconv :app/Store.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Store.php
+> git show --textconv :app/Product.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Product.php
+> git show --textconv :app/Store.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Store.php
+> git show --textconv :app/Product.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Product.php
+> git show --textconv :app/Store.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Store.php
+> git show --textconv :app/Product.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Product.php
+> git show --textconv :app/Store.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Store.php
+> git show --textconv :app/User.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/User.php
+> git cat-file -s e79dab7fea8f6601eaf07072ee6b12fbe20bdbe1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :app/Http/Controllers/StoreController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/StoreController.php
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :app/Http/Controllers/Admin/StoreController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Admin/StoreController.php
+> git show --textconv :app/Http/Controllers/StoreController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/StoreController.php
+> git show --textconv :app/Http/Controllers/Admin/StoreController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Admin/StoreController.php
+> git show --textconv :app/Http/Controllers/StoreController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/StoreController.php
+> git show --textconv :app/Http/Controllers/Admin/StoreController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Admin/StoreController.php
+> git show --textconv :app/Http/Controllers/StoreController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/StoreController.php
+> git show --textconv :app/Http/Controllers/Admin/StoreController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Admin/StoreController.php
+> git show --textconv :app/Http/Controllers/StoreController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/StoreController.php
+> git show --textconv :app/Http/Controllers/Admin/StoreController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Admin/StoreController.php
+> git show --textconv :app/Http/Controllers/StoreController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/StoreController.php
+> git show --textconv :app/Http/Controllers/Admin/StoreController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Admin/StoreController.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git status -z -u
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git status -z -u
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Http/Controllers/Admin/StoreController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Admin/StoreController.php
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git show --textconv :app/Http/Controllers/Admin/StoreController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Admin/StoreController.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git show --textconv :app/Http/Controllers/Admin/StoreController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Admin/StoreController.php
+> git show --textconv :resources/views/admin
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/admin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git show --textconv :app/Http/Controllers/Admin/StoreController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Admin/StoreController.php
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/admin
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/admin
+> git show --textconv :app/Http/Controllers/Admin/StoreController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Admin/StoreController.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv :resources/views/admin/stores/index.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/admin/stores/index.blade.php
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git show --textconv :database/factories/StoreFactory.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/factories/StoreFactory.php
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git show --textconv :database/seeds/StoreTableSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/StoreTableSeeder.php
+> git show --textconv :database/seeds/UsersTableSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/UsersTableSeeder.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git config --get commit.template
+> git cat-file -s 810aa34949b08f9fae9892d008272d72c22c56d0
+> git show --textconv :app/Http/Controllers/Admin/StoreController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Admin/StoreController.php
+> git show --textconv :resources/views/admin/stores/index.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/admin/stores/index.blade.php
+> git show --textconv :app/Http/Controllers/Admin/StoreController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Admin/StoreController.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/admin/stores/index.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/admin/stores/index.blade.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Http/Controllers/Admin/StoreController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Admin/StoreController.php
+> git show --textconv :resources/views/admin/stores/index.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/admin/stores/index.blade.php
+> git show --textconv :database/seeds/UsersTableSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/UsersTableSeeder.php
+> git show --textconv :resources/views/admin/stores/index.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/admin/stores/index.blade.php
+> git show --textconv :database/seeds/StoreTableSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/StoreTableSeeder.php
+> git show --textconv :database/seeds/UsersTableSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/UsersTableSeeder.php
+> git show --textconv :database/seeds/StoreTableSeeder.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/database/seeds/StoreTableSeeder.php
+> git show --textconv :resources/views/admin/stores/index.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/admin/stores/index.blade.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

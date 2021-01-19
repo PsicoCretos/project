@@ -1,0 +1,4 @@
+[2021-01-04 23:50:02.806] [sharedprocess] [info] main {"machineId":"9581efd0ec001bfb5626ba5482d62bb156fc32ba7211dd54b0d819e61fb75ee0","windowId":2}
+[2021-01-04 23:50:04.282] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/dias/projetos/ESTUDAPORRA/~/.vscode-root
+code --user-data-dir=~/.vscode-root/User/snippets'
+[2021-01-04 23:50:42.980] [sharedprocess] [info] Starting to clean up unused language packs.
