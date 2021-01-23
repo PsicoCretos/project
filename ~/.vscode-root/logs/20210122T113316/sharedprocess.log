@@ -1,0 +1,14 @@
+[2021-01-22 11:33:22.992] [sharedprocess] [info] main {"machineId":"9581efd0ec001bfb5626ba5482d62bb156fc32ba7211dd54b0d819e61fb75ee0","windowId":2}
+[2021-01-22 11:33:33.951] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-containers
+[2021-01-22 11:33:36.021] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-containers undefined
+[2021-01-22 11:33:44.448] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ms-vscode-remote.remote-containers-0.155.1: ms-vscode-remote.remote-containers
+[2021-01-22 11:33:44.454] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-vscode-remote.remote-containers-0.155.1
+[2021-01-22 11:33:44.470] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-containers
+[2021-01-22 11:33:44.541] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-containers
+[2021-01-22 11:34:03.077] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-01-22 11:40:57.685] [sharedprocess] [info] Installing extension: thomaz.preparing
+[2021-01-22 11:40:58.265] [sharedprocess] [info] Downloaded extension: thomaz.preparing undefined
+[2021-01-22 11:40:58.471] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.thomaz.preparing-1.4.1: thomaz.preparing
+[2021-01-22 11:40:58.472] [sharedprocess] [info] Renamed to /root/.vscode/extensions/thomaz.preparing-1.4.1
+[2021-01-22 11:40:58.476] [sharedprocess] [info] Installation completed. thomaz.preparing
+[2021-01-22 11:40:58.489] [sharedprocess] [info] Extensions installed successfully: thomaz.preparing

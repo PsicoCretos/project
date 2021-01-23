@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravinhu - {{$helloWorld}}
+                    Laravinhou - {{$helloWorld}}
                 </div>
 
                 <div class="links">

@@ -1,9 +1,0 @@
-[2020-12-29 19:09:48.386] [sharedprocess] [info] main {"machineId":"9581efd0ec001bfb5626ba5482d62bb156fc32ba7211dd54b0d819e61fb75ee0","windowId":2}
-[2020-12-29 19:09:49.063] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/dias/projetos/ESTUDAPORRA/~/.vscode-root/User/snippets'
-[2020-12-29 19:10:28.509] [sharedprocess] [info] Starting to clean up unused language packs.
-[2020-12-29 19:10:55.597] [sharedprocess] [info] Installing extension: thomaz.preparing
-[2020-12-29 19:10:56.167] [sharedprocess] [info] Downloaded extension: thomaz.preparing undefined
-[2020-12-29 19:10:56.388] [sharedprocess] [info] Extracted extension to /home/dias/.vscode/extensions/.thomaz.preparing-1.3.0: thomaz.preparing
-[2020-12-29 19:10:56.389] [sharedprocess] [info] Renamed to /home/dias/.vscode/extensions/thomaz.preparing-1.3.0
-[2020-12-29 19:10:56.402] [sharedprocess] [info] Installation completed. thomaz.preparing
-[2020-12-29 19:10:56.420] [sharedprocess] [info] Extensions installed successfully: thomaz.preparing

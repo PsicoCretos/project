@@ -1,0 +1,12 @@
+[2021-01-21 21:28:33.642] [main] [error] Backup: Could not delete stale backup: Error: EACCES: permission denied, rmdir '/home/dias/projetos/ESTUDAPORRA/~/.vscode-root/Backups/2b637956a5fd70ab339478e19b6fbb94/file'
+[2021-01-21 21:28:34.717] [main] [info] update#setState idle
+[2021-01-21 21:29:23.398] [main] [info] update#setState checking for updates
+[2021-01-21 21:29:23.460] [main] [error] [uncaught exception in main]: Error: read ECONNRESET
+[2021-01-21 21:29:23.480] [main] [error] Error: read ECONNRESET
+    at Pipe.onStreamRead (internal/stream_base_commons.js:200:27)
+[2021-01-21 21:29:23.635] [main] [info] update#setState idle
+[2021-01-21 21:30:15.651] [main] [error] [VS Code]: detected unresponsive
+[2021-01-21 22:29:24.050] [main] [info] update#setState checking for updates
+[2021-01-21 22:29:24.078] [main] [info] update#setState idle
+[2021-01-22 11:06:32.591] [main] [info] update#setState checking for updates
+[2021-01-22 11:06:32.597] [main] [info] update#setState idle
