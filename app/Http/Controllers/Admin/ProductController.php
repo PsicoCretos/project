@@ -1,16 +1,19 @@
 <?php
-
+use App\Traits\UploadTrait;
 namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\Product;
 use App\Http\Requests\ProductRequest;
+use App\Traits\UploadTrait;
 
 class ProductController extends Controller
 {
-    private $product;
-    //internamente quando ele fizer new ProductController ele auto faz (new Product()) q é o meu model
+    use UploadTrait;
+
+    private $product;    //internamente quando ele fizer new ProductController ele auto faz (new Product()) q é o meu model
+
     public function __construct(Product $product)
     {
         $this->product = $product;
@@ -24,7 +27,7 @@ class ProductController extends Controller
     public function index() //listar os dados
     {
         $userStore= auth()->user()->store;
-        $products = $userStore->products()->paginate(10) ;
+        $products = $userStore->products()->paginate(10);
 
         return view('admin.products.index', compact('products'));
     }
@@ -36,8 +39,7 @@ class ProductController extends Controller
      */
     public function create() // exibir formulario de criacao 
     {
-       
-       $categories = \App\Category::all(['id','name']);
+        $categories = \App\Category::all(['id','name']);
 
         return view('admin.products.create', compact('categories'));
     }
@@ -49,8 +51,7 @@ class ProductController extends Controller
      * @return \Illuminate\Http\Response
      */
     public function store(ProductRequest $request) //processamento da criacao
-    {
-               
+    {               
         $data = $request->all();
 
         $store = auth()->user()->store; //HasOne
@@ -59,11 +60,10 @@ class ProductController extends Controller
         $product->categories()->sync($data['categories']);
 
         if($request->hasFile('photos')) {
-            $images = $this->imageUpload($request, 'image');
-            //insercao das imagens / referencia na base nome da img so com a pasta
+            $images = $this->imageUpload($request->file('photos', 'image'));    //insercao das imagens / referencia na base nome da img so com a pasta
+            
             $product->photos()->createMany($images);
         }
-
         flash('Produto Criado Com Sucesso!')->success();
         return redirect()->route('admin.products.index');
     }
@@ -90,6 +90,7 @@ class ProductController extends Controller
         $product = $this->product->findOrFail($product);
         $categories = \App\Category::all(['id','name']);
 
+
         return view('admin.products.edit', compact('product','categories'));
     }
 
@@ -109,8 +110,8 @@ class ProductController extends Controller
         $product->categories()->sync($data['categories']);
 
         if($request->hasFile('photos')) {
-            $images = $this->imageUpload($request, 'image');
-            //insercao das imagens / referencia na base nome da img so com a pasta
+            $images = $this->imageUpload($request->file('photos'), 'image');            //insercao das imagens / referencia na base nome da img so com a pasta
+            
             $product->photos()->createMany($images);
         }
 
@@ -130,18 +131,7 @@ class ProductController extends Controller
         $product->delete();
 
         flash('Produto Removido Com Sucesso!')->success();
-        return redirect()->route('admin.products.index');
-    }
-    private function imageUpload(Request $request, $imageColumn)
-        {
-            $images = $request->file('photos');
-            $uploadedImages = [];
-
-        foreach($images as $image) {
-           $uploadedImages [] = [$imageColumn => $image->store('products','public')]; //primeiro a pasta onde quer armazenar, segundo parametro o disco no caso public do filesystem em (storage/app/public "vai criar a pasta products com o arquivo")
-        }
-
-        return $uploadedImages;
         
+        return redirect()->route('admin.products.index');
     }
 }

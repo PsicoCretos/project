@@ -1,0 +1,50 @@
+[2021-01-24 18:49:01.031] [exthost] [info] extension host started
+[2021-01-24 18:49:02.918] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-01-24 18:49:02.919] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/52/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-01-24 18:49:03.006] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2021-01-24 18:49:03.016] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/52/usr/share/code/resources/app/extensions/php-language-features/dist/phpMain
+[2021-01-24 18:49:03.096] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-01-24 18:49:03.096] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/52/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-01-24 18:49:03.114] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-01-24 18:49:03.115] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/52/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-01-24 18:49:03.209] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-01-24 18:49:03.210] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/52/usr/share/code/resources/app/extensions/git/dist/main
+[2021-01-24 18:49:03.307] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-01-24 18:49:03.312] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/52/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-01-24 18:49:03.329] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-01-24 18:49:03.330] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/52/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2021-01-24 18:49:03.337] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-01-24 18:49:03.338] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/52/usr/share/code/resources/app/extensions/npm/dist/npmMain
+[2021-01-24 18:49:04.880] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-01-24 18:49:04.881] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/52/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-01-24 18:49:05.341] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-01-24 18:49:05.346] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/52/usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-01-24 18:49:06.032] [exthost] [info] eager extensions activated
+[2021-01-24 18:49:07.109] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":false,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"onStartupFinished"}
+[2021-01-24 18:49:07.109] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/github.vscode-pull-request-github-0.22.0/media/extension
+[2021-01-24 18:49:07.432] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-01-24 18:49:07.433] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/ms-vscode-remote.remote-containers-0.155.1/dist/extension
+[2021-01-24 18:49:09.702] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-01-24 18:49:09.703] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/52/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-01-24 18:49:24.750] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/dias/projetos/ESTUDAPORRA/public/storage/.gitignore' is beyond a symbolic link\n","exitCode":128}
+[2021-01-24 18:49:24.750] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/dias/projetos/ESTUDAPORRA/public/storage/.gitignore' is beyond a symbolic link\n","exitCode":128}
+[2021-01-24 18:49:24.750] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/dias/projetos/ESTUDAPORRA/public/storage/.gitignore' is beyond a symbolic link\n","exitCode":128}
+[2021-01-24 18:49:24.751] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/dias/projetos/ESTUDAPORRA/public/storage/.gitignore' is beyond a symbolic link\n","exitCode":128}
+[2021-01-24 18:49:24.751] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/dias/projetos/ESTUDAPORRA/public/storage/.gitignore' is beyond a symbolic link\n","exitCode":128}
+[2021-01-24 18:49:24.751] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/dias/projetos/ESTUDAPORRA/public/storage/.gitignore' is beyond a symbolic link\n","exitCode":128}
+[2021-01-24 18:49:24.751] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/dias/projetos/ESTUDAPORRA/public/storage/.gitignore' is beyond a symbolic link\n","exitCode":128}
+[2021-01-24 18:49:24.751] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/dias/projetos/ESTUDAPORRA/public/storage/.gitignore' is beyond a symbolic link\n","exitCode":128}
+[2021-01-24 18:49:24.751] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/dias/projetos/ESTUDAPORRA/public/storage/.gitignore' is beyond a symbolic link\n","exitCode":128}
+[2021-01-24 18:49:24.751] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/dias/projetos/ESTUDAPORRA/public/storage/.gitignore' is beyond a symbolic link\n","exitCode":128}
+[2021-01-24 18:49:24.751] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/dias/projetos/ESTUDAPORRA/public/storage/.gitignore' is beyond a symbolic link\n","exitCode":128}
+[2021-01-24 18:49:24.752] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/dias/projetos/ESTUDAPORRA/public/storage/.gitignore' is beyond a symbolic link\n","exitCode":128}
+[2021-01-24 18:49:24.752] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/dias/projetos/ESTUDAPORRA/public/storage/.gitignore' is beyond a symbolic link\n","exitCode":128}
+[2021-01-24 18:49:24.752] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/dias/projetos/ESTUDAPORRA/public/storage/.gitignore' is beyond a symbolic link\n","exitCode":128}
+[2021-01-24 18:49:24.752] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/dias/projetos/ESTUDAPORRA/public/storage/.gitignore' is beyond a symbolic link\n","exitCode":128}
+[2021-01-24 18:49:24.752] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/dias/projetos/ESTUDAPORRA/public/storage/.gitignore' is beyond a symbolic link\n","exitCode":128}
+[2021-01-24 18:49:24.752] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/dias/projetos/ESTUDAPORRA/public/storage/.gitignore' is beyond a symbolic link\n","exitCode":128}
+[2021-01-24 18:49:24.752] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/dias/projetos/ESTUDAPORRA/public/storage/.gitignore' is beyond a symbolic link\n","exitCode":128}
+[2021-01-24 18:49:24.752] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/dias/projetos/ESTUDAPORRA/public/storage/.gitignore' is beyond a symbolic link\n","exitCode":128}
+[2021-01-24 18:49:24.752] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/dias/projetos/ESTUDAPORRA/public/storage/.gitignore' is beyond a symbolic link\n","exitCode":128}
+[2021-01-24 22:16:56.757] [exthost] [info] ExtensionService#_doActivateExtension vscode.image-preview {"startup":false,"extensionId":{"value":"vscode.image-preview","_lower":"vscode.image-preview"},"activationEvent":"onCustomEditor:imagePreview.previewEditor"}
+[2021-01-24 22:16:56.763] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/52/usr/share/code/resources/app/extensions/image-preview/dist/extension

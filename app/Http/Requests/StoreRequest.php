@@ -28,6 +28,7 @@ class StoreRequest extends FormRequest //entre o envio dos dados e meu metodo
             'description'       => 'required|min:10',
             'phone'             => 'required|max:10',
             'mobile_phone'      => 'required|max:11',
+            'logo'              => 'image'
 
         ];
     }
@@ -36,7 +37,8 @@ class StoreRequest extends FormRequest //entre o envio dos dados e meu metodo
     {
         return [
             'required' => 'Este Campo É Obrigatório',
-            'min' => 'Campo Deve Ter No Mínimo :min Caracteres'
+            'min' => 'Campo Deve Ter No Mínimo :min Caracteres',
+            'image' => 'Arquivo não é uma imagem válida!'
             
         ];
     }

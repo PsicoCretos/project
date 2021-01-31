@@ -1,0 +1,4 @@
+[2021-01-24 17:53:24.061] [main] [error] Backup: Could not delete stale backup: Error: EACCES: permission denied, rmdir '/home/dias/projetos/ESTUDAPORRA/~/.vscode-root/Backups/2b637956a5fd70ab339478e19b6fbb94/file'
+[2021-01-24 17:53:24.092] [main] [info] update#setState idle
+[2021-01-24 17:53:54.095] [main] [info] update#setState checking for updates
+[2021-01-24 17:53:54.107] [main] [info] update#setState idle
