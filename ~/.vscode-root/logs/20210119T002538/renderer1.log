@@ -1,7 +1,0 @@
-[2021-01-19 00:25:50.198] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/dias/projetos/ESTUDAPORRA/.vscode'
-[2021-01-19 00:31:31.405] [renderer1] [warning] Settings pattern "workbench.fontAliasing" doesn't match any settings
-[2021-01-19 00:32:10.887] [renderer1] [warning] Settings pattern "workbench.fontAliasing" doesn't match any settings
-[2021-01-19 00:46:33.637] [renderer1] [warning] Settings pattern "workbench.fontAliasing" doesn't match any settings
-[2021-01-19 00:46:44.976] [renderer1] [warning] Settings pattern "workbench.fontAliasing" doesn't match any settings
-[2021-01-19 00:48:09.918] [renderer1] [warning] Settings pattern "workbench.fontAliasing" doesn't match any settings
-[2021-01-19 00:48:17.672] [renderer1] [warning] Settings pattern "workbench.fontAliasing" doesn't match any settings

@@ -1,0 +1,25 @@
+[2021-01-31 17:46:24.432] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/dias/projetos/ESTUDAPORRA/.vscode'
+[2021-01-31 18:03:04.375] [renderer1] [error] Git error
+[2021-01-31 18:10:16.031] [renderer1] [error] Git error
+[2021-01-31 18:10:50.685] [renderer1] [error] Error: Unable to move/copy '/home/dias/projetos/ESTUDAPORRA/public' because target '/home/dias/projetos/ESTUDAPORRA/storage/app/public' already exists at destination.
+    at _.doValidateMoveCopy (file:///snap/code/52/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1809:351)
+    at async _.doCanMoveCopy (file:///snap/code/52/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1806:841)
+    at async p.doMoveOrCopy (file:///snap/code/52/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6782:620)
+    at async e.perform (file:///snap/code/52/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6812:361)
+    at async S.apply (file:///snap/code/52/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6817:420)
+    at async b._performFileEdits (file:///snap/code/52/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:577)
+    at async b.perform (file:///snap/code/52/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:36)
+    at async _.apply (file:///snap/code/52/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6821:332)
+    at async file:///snap/code/52/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6139:737
+[2021-01-31 18:10:50.714] [renderer1] [error] Unable to move/copy '/home/dias/projetos/ESTUDAPORRA/public' because target '/home/dias/projetos/ESTUDAPORRA/storage/app/public' already exists at destination.: Error: Unable to move/copy '/home/dias/projetos/ESTUDAPORRA/public' because target '/home/dias/projetos/ESTUDAPORRA/storage/app/public' already exists at destination.
+    at _.doValidateMoveCopy (file:///snap/code/52/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1809:351)
+    at async _.doCanMoveCopy (file:///snap/code/52/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1806:841)
+    at async p.doMoveOrCopy (file:///snap/code/52/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6782:620)
+    at async e.perform (file:///snap/code/52/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6812:361)
+    at async S.apply (file:///snap/code/52/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6817:420)
+    at async b._performFileEdits (file:///snap/code/52/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:577)
+    at async b.perform (file:///snap/code/52/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:36)
+    at async _.apply (file:///snap/code/52/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6821:332)
+    at async file:///snap/code/52/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6139:737
+[2021-01-31 18:11:02.066] [renderer1] [error] Git error
+[2021-01-31 18:12:16.431] [renderer1] [critical] {"fileOperationResult":1,"options":{"preferUnbuffered":true}}

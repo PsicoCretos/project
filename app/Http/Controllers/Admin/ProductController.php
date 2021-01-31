@@ -53,11 +53,12 @@ class ProductController extends Controller
     public function store(ProductRequest $request) //processamento da criacao
     {               
         $data = $request->all();
+        $categories = $request->get('categories', null);
 
         $store = auth()->user()->store; //HasOne
         $product = $store->products()->create($data);
 
-        $product->categories()->sync($data['categories']);
+        $product->categories()->sync($categories);
 
         if($request->hasFile('photos')) {
             $images = $this->imageUpload($request->file('photos', 'image'));    //insercao das imagens / referencia na base nome da img so com a pasta
@@ -104,10 +105,13 @@ class ProductController extends Controller
     public function update(ProductRequest $request, $product) //processamento da atualizacao
     {
         $data = $request->all();
+        $categories = $request->get('categories', null);
 
         $product = $this->product->find($product);
         $product->update($data);
-        $product->categories()->sync($data['categories']);
+
+        if(!is_null($categories))
+        $product->categories()->sync($categories);
 
         if($request->hasFile('photos')) {
             $images = $this->imageUpload($request->file('photos'), 'image');            //insercao das imagens / referencia na base nome da img so com a pasta
