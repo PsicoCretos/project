@@ -1,0 +1,13 @@
+[2021-02-14 14:22:17.496] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-02-14 14:22:19.443] [sharedprocess] [info] Installing extension: github.vscode-pull-request-github
+[2021-02-14 14:22:21.881] [sharedprocess] [info] Downloaded extension: github.vscode-pull-request-github undefined
+[2021-02-14 14:22:25.777] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.github.vscode-pull-request-github-0.23.1: github.vscode-pull-request-github
+[2021-02-14 14:22:25.779] [sharedprocess] [info] Renamed to /root/.vscode/extensions/github.vscode-pull-request-github-0.23.1
+[2021-02-14 14:22:25.829] [sharedprocess] [info] Installation completed. github.vscode-pull-request-github
+[2021-02-14 14:22:25.862] [sharedprocess] [info] Extensions installed successfully: github.vscode-pull-request-github
+[2021-02-14 14:22:26.045] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-containers
+[2021-02-14 14:22:27.416] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-containers undefined
+[2021-02-14 14:22:40.442] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ms-vscode-remote.remote-containers-0.158.0: ms-vscode-remote.remote-containers
+[2021-02-14 14:22:40.445] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-vscode-remote.remote-containers-0.158.0
+[2021-02-14 14:22:40.493] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-containers
+[2021-02-14 14:22:40.559] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-containers

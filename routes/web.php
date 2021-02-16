@@ -10,12 +10,17 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
+Route::get('/', 'HomeController@index')->name('home');
+Route::get('/product/{slug}','HomeController@single')->name('product.single'); //link para single /product id dinamico slug q aponta p metodo single do homecontroller apelido product.single
 
-Route::get('/', function () {
-    $helloWorld = 'ola mundao!';
+Route::prefix('cart')->name('cart.')->group(function(){
+    Route::get('/', 'CartController@index')->name('index');
+    Route::post('add', 'CartController@add')->name('add');
 
-    return view('welcome',compact('helloWorld'));
-})->name('home');
+    Route::get('remove/{slug}','CartController@remove')->name('remove');
+    Route::get('cancel','CartController@cancel')->name('cancel');
+});
+
 
 Route::get('/model', function(){
 

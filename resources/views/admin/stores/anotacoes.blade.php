@@ -10,6 +10,14 @@
 
 para array de imgs 'photos.*' validar cada uma com .* 
 
+/*
+Middlewares: Dentro de aplicacoes web, ele é um codigo ou programa que é executado entre
+a requisição(request) e a minha aplicacao (é a logica executada pelo acesso a uma determinada rota)
+
+
+Request ->  Middleware -> Aplicação (Acesso qualquer rota) <- Marketplace
+app http middleware (caminho no vscode)
+*/
 
 
 

@@ -97,7 +97,7 @@
                         "label": "Save &&As..."
                     },
                     {
-                        "id": "workbench.action.files.saveAll",
+                        "id": "saveAll",
                         "label": "Save A&&ll",
                         "enabled": false
                     },
@@ -153,6 +153,10 @@
                                 {
                                     "id": "workbench.action.selectIconTheme",
                                     "label": "File &&Icon Theme"
+                                },
+                                {
+                                    "id": "workbench.action.selectProductIconTheme",
+                                    "label": "&&Product Icon Theme"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -801,7 +805,8 @@
                     },
                     {
                         "id": "workbench.action.debug.configure",
-                        "label": "Open &&Configurations"
+                        "label": "Open &&Configurations",
+                        "enabled": false
                     },
                     {
                         "id": "debug.addConfiguration",
@@ -1010,7 +1015,7 @@
                     },
                     {
                         "id": "workbench.action.toggleDevTools",
-                        "label": "&&Toggle Developer Tools"
+                        "label": "Toggle Developer Tools"
                     },
                     {
                         "id": "workbench.action.openProcessExplorer",
@@ -1461,7 +1466,7 @@
             "uiState": {
                 "mode": 0,
                 "x": 1540,
-                "y": 138,
+                "y": 175,
                 "width": 1024,
                 "height": 482
             }
