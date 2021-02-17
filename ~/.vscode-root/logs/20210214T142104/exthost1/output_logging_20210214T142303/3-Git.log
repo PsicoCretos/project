@@ -1230,3 +1230,481 @@ Open repository: /home/dias/projetos/ESTUDAPORRA
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/CartController.php
+> git cat-file -s f6f1c96ed35a2991c73820347bbe610f53c42688
+> git symbolic-ref --short HEAD
+> git show --textconv :app/Http/Controllers/CartController.php
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --local branch.master.github-pr-owner-number
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/layouts/front.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/layouts/front.blade.php
+> git cat-file -s 0384d9c3f3e9181f92cea7a72be95305fefaacdf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Http/Controllers/CheckoutController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/CheckoutController.php
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 4ce233c30bcdcf585b74fd98be1b8088632cfcb3
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Http/Controllers/CheckoutController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/CheckoutController.php
+> git check-ignore -v -z --stdin
+> git show --textconv :app/Http/Controllers/Auth/LoginController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Auth/LoginController.php
+> git cat-file -s 3fe9ce98e4f5e39f0eb4a64adf1fb1228c345d69
+> git show --textconv :app/Http/Controllers/Auth/RegisterController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Auth/RegisterController.php
+> git cat-file -s 7e1cd95a010a3890eb5f9270f4492d5f65fe027a
+> git show --textconv :app/Http/Controllers/Auth/LoginController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Auth/LoginController.php
+> git cat-file -s 3fe9ce98e4f5e39f0eb4a64adf1fb1228c345d69
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Http/Controllers/Auth/RegisterController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Auth/RegisterController.php
+> git cat-file -s 7e1cd95a010a3890eb5f9270f4492d5f65fe027a
+> git show --textconv :app/Http/Controllers/Auth/LoginController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Auth/LoginController.php
+> git cat-file -s 3fe9ce98e4f5e39f0eb4a64adf1fb1228c345d69
+> git show --textconv :app/Http/Controllers/Auth/RegisterController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Auth/RegisterController.php
+> git cat-file -s 7e1cd95a010a3890eb5f9270f4492d5f65fe027a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Http/Controllers/Auth/LoginController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Auth/LoginController.php
+> git cat-file -s 3fe9ce98e4f5e39f0eb4a64adf1fb1228c345d69
+> git show --textconv :app/Http/Controllers/CheckoutController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/CheckoutController.php
+> git show --textconv :resources/views/layouts/front.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/layouts/front.blade.php
+> git cat-file -s 0384d9c3f3e9181f92cea7a72be95305fefaacdf
+> git show --textconv :app/Http/Controllers/CheckoutController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/CheckoutController.php
+> git show --textconv :app/Http/Controllers/Auth/RegisterController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Auth/RegisterController.php
+> git cat-file -s 7e1cd95a010a3890eb5f9270f4492d5f65fe027a
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 4ce233c30bcdcf585b74fd98be1b8088632cfcb3
+> git show --textconv :app/Http/Controllers/Auth/LoginController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Auth/LoginController.php
+> git cat-file -s 3fe9ce98e4f5e39f0eb4a64adf1fb1228c345d69
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Http/Controllers/Auth/RegisterController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Auth/RegisterController.php
+> git cat-file -s 7e1cd95a010a3890eb5f9270f4492d5f65fe027a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Http/Controllers/Auth/LoginController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Auth/LoginController.php
+> git cat-file -s 3fe9ce98e4f5e39f0eb4a64adf1fb1228c345d69
+> git show --textconv :app/Http/Controllers/Auth/RegisterController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Auth/RegisterController.php
+> git cat-file -s 7e1cd95a010a3890eb5f9270f4492d5f65fe027a
+> git show --textconv :app/Http/Controllers/Auth/LoginController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Auth/LoginController.php
+> git cat-file -s 3fe9ce98e4f5e39f0eb4a64adf1fb1228c345d69
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/cart.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/cart.blade.php
+> git cat-file -s cb7fa939c0c64461a48be2eeecd97631a1c220a9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Http/Controllers/Auth/LoginController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Auth/LoginController.php
+> git cat-file -s 3fe9ce98e4f5e39f0eb4a64adf1fb1228c345d69
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Http/Controllers/CheckoutController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/CheckoutController.php
+> git show --textconv :resources/views/layouts/front.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/layouts/front.blade.php
+> git cat-file -s 0384d9c3f3e9181f92cea7a72be95305fefaacdf
+> git show --textconv :resources/views/cart.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/cart.blade.php
+> git cat-file -s cb7fa939c0c64461a48be2eeecd97631a1c220a9
+> git status -z -u
+> git show --textconv :resources/views/layouts/front.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/layouts/front.blade.php
+> git symbolic-ref --short HEAD
+> git cat-file -s 0384d9c3f3e9181f92cea7a72be95305fefaacdf
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/cart.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/cart.blade.php
+> git cat-file -s cb7fa939c0c64461a48be2eeecd97631a1c220a9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Http/Controllers/Auth/RegisterController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/Auth/RegisterController.php
+> git cat-file -s 7e1cd95a010a3890eb5f9270f4492d5f65fe027a
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/routes/web.php
+> git cat-file -s 4ce233c30bcdcf585b74fd98be1b8088632cfcb3
+> git show --textconv :resources/views/checkout.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/checkout.blade.php
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/cart.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/cart.blade.php
+> git cat-file -s cb7fa939c0c64461a48be2eeecd97631a1c220a9
+> git show --textconv :resources/views/checkout.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/checkout.blade.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/cart.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/cart.blade.php
+> git cat-file -s cb7fa939c0c64461a48be2eeecd97631a1c220a9
+> git show --textconv :resources/views/checkout.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/checkout.blade.php
+> git show --textconv :app/Http/Controllers/CheckoutController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/CheckoutController.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/checkout.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/checkout.blade.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.env
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/.env
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Providers/AppServiceProvider.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Providers/AppServiceProvider.php
+> git cat-file -s ee8ca5bcd8f77d219f29529a9163587235c545d5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/checkout.blade.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/resources/views/checkout.blade.php
+> git show --textconv :app/Http/Controllers/CheckoutController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/CheckoutController.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.env
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/.env
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Providers/AppServiceProvider.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Providers/AppServiceProvider.php
+> git cat-file -s ee8ca5bcd8f77d219f29529a9163587235c545d5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Http/Controllers/CheckoutController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/CheckoutController.php
+> git show --textconv :app/Providers/AppServiceProvider.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Providers/AppServiceProvider.php
+> git cat-file -s ee8ca5bcd8f77d219f29529a9163587235c545d5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Http/Controllers/CheckoutController.php
+> git ls-files --stage -- /home/dias/projetos/ESTUDAPORRA/app/Http/Controllers/CheckoutController.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
