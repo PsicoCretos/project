@@ -1465,11 +1465,11 @@
             "folder": "file:///home/dias/projetos/ESTUDAPORRA",
             "backupPath": "/home/dias/projetos/ESTUDAPORRA/~/.vscode-root/Backups/2b637956a5fd70ab339478e19b6fbb94",
             "uiState": {
-                "mode": 1,
-                "x": 1432,
-                "y": 64,
-                "width": 1294,
-                "height": 704
+                "mode": 0,
+                "x": 1540,
+                "y": 212,
+                "width": 1024,
+                "height": 482
             }
         },
         "openedWindows": []
